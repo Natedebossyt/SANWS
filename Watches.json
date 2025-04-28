@@ -1,74 +1,74 @@
 [
-  {
-    "name": "PDS TORNADO WATCH #1",
-    "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Minneapolis' and 'Denver' have issued a 'PDS TORNADO WATCH' at '12:23 PM EST'. Primary threats to expect include 'large and strong tornadoes, winds up to 90 MPH, and hail up to 4 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'PDS TORNADO WATCH' will expire at '9:45 PM EST' on the '28th'.",
+    {
+      "name": "PDS TORNADO WATCH #1",
+      "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Minneapolis' and 'Denver' have issued a 'PDS TORNADO WATCH' at '12:23 PM EST'. Primary threats to expect include 'large and strong tornadoes, winds up to 90 MPH, and hail up to 4 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'PDS TORNADO WATCH' will expire at '9:45 PM EST' on the '28th'.",
+      "coordinates": [
+        [45.43878010970198, -95.39636560618858],
+        [41.24197852269181, -96.68833636391152],
+        [40.99551148136436, -93.69800029087203],
+        [41.85112758723584, -90.9806157863656],
+        [45.60160437199744, -90.93815665348268]
+      ]
+    },
+    {
+      "name": "PDS TORNADO WATCH #2",
+      "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Denver' have issued a 'PDS TORNADO WATCH' at '5:23 PM EST'. Primary threats to expect include 'large and strong tornadoes, winds up to 90 MPH, and hail up to 4 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'PDS TORNADO WATCH' will expire at '9:45 PM EST' on the '28th'.",
+      "coordinates": [
+        [34.19567020658356, -100.6309701316107],
+        [31.438703295412733, -103.88819218277128],
+        [29.789888945969434, -102.74786118534449],
+        [30.724104088929305, -99.39358968759434],
+        [34.60449775852251, -96.85210730503142],
+        [36.17745807789931, -96.86423848585511]
+      ]
+    },
+    {
+      "name": "TORNADO WATCH #3",
+      "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Texarkana' and 'Denver' have issued a 'TORNADO WATCH' at '6:25 PM EST'. Primary threats to expect include 'a few tornadoes, winds up to 80 MPH, and hail up to 3.5 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'TORNADO WATCH' will expire at '12:15 AM EST' on the '29th'.",
+      "coordinates": [
+        [42.75601372179378, -95.94114977429378],
+        [41.030268190877464, -96.59313664991333],
+        [39.4455332859043, -97.4992879007744],
+        [38.28579000918115, -95.44833056734004],
+        [38.49311003724227, -93.14325842416268],
+        [43.703884623484676, -90.94762787397352]
+      ]
+    },
+    {
+      "name": "SVR THUNDERSTORM WATCH #1",
+      "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Texarkana' and 'Denver' have issued a 'SVR THUNDERSTORM WATCH' at '6:10 PM EST'. Primary threats to expect include 'a few strong tornadoes, winds up to 90 MPH, and hail up to 5 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'SVR THUNDERSTORM WATCH' will expire at '2:15 AM EST' on the '29th'.",
+      "coordinates": [
+        [36.65702056379984, -99.39965527800624],
+        [35.164254163855325, -98.63539088611381],
+        [35.79740029934342, -95.17193876095044],
+        [37.25007069458963, -93.16828192051346],
+        [39.95402255354882, -92.46245137486562],
+        [40.44204965760227, -97.54349040081642]
+      ]
+    },
+    {
+      "name": "SVR THUNDERSTORM WATCH #2",
+      "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Minneapolis' and 'Indianapolis' have issued a 'SVR THUNDERSTORM WATCH' at '6:43 PM EST'. Primary threats to expect include 'a tornado or two, winds up to 85 MPH, and hail up to 4.25 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'SVR THUNDERSTORM WATCH' will expire at '1:00 AM EST' on the '29th'.",
+      "coordinates": [
+        [47.50820378290487, -90.43335405871417],
+        [46.25354952776681, -92.7644082680674],
+        [43.02053968012454, -92.49044931975173],
+        [43.55298572779904, -89.07317191181335],
+        [45.189484208595715, -86.17016831913432],
+        [47.368618611321686, -87.38135524853016]
+      ]
+    },
+   {
+    "name": "SVR THUNDERSTORM WATCH #3",
+    "description": "The S.A.N.W.S office or offices in 'Lubbock' and/or 'Texarkana' have issued a 'Tornado Watch #4' at '7:04 PM EST'. Primary threats to expect include 'a few weak to strong tornadoes, winds up to 85MPH, and hail up to 3.75 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets'. This 'Tornado Watch' will expire at '10:45 PM EST' on the '28th'.",
     "coordinates": [
-      [45.43878010970198, -95.39636560618858],
-      [41.24197852269181, -96.68833636391152],
-      [40.99551148136436, -93.69800029087203],
-      [41.85112758723584, -90.9806157863656],
-      [45.60160437199744, -90.93815665348268]
+      [36.932844169792844, -99.8825346269376],
+      [35.5844478869444, -100.91588855479515],
+      [34.5461608488294, -100.78611852664562],
+      [33.60691207439517, -100.28145730606403],
+      [33.35887443042332, -98.82995550972453],
+      [35.624991035822774, -96.90743657417553],
+      [36.72702732185892, -97.76776379783371]
     ]
-  },
-  {
-    "name": "PDS TORNADO WATCH #2",
-    "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Denver' have issued a 'PDS TORNADO WATCH' at '5:23 PM EST'. Primary threats to expect include 'large and strong tornadoes, winds up to 90 MPH, and hail up to 4 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'PDS TORNADO WATCH' will expire at '9:45 PM EST' on the '28th'.",
-    "coordinates": [
-      [34.19567020658356, -100.6309701316107],
-      [31.438703295412733, -103.88819218277128],
-      [29.789888945969434, -102.74786118534449],
-      [30.724104088929305, -99.39358968759434],
-      [34.60449775852251, -96.85210730503142],
-      [36.17745807789931, -96.86423848585511]
-    ]
-  },
-  {
-    "name": "TORNADO WATCH #3",
-    "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Texarkana' and 'Denver' have issued a 'TORNADO WATCH' at '6:25 PM EST'. Primary threats to expect include 'a few tornadoes, winds up to 80 MPH, and hail up to 3.5 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'TORNADO WATCH' will expire at '12:15 AM EST' on the '29th'.",
-    "coordinates": [
-      [42.75601372179378, -95.94114977429378],
-      [41.030268190877464, -96.59313664991333],
-      [39.4455332859043, -97.4992879007744],
-      [38.28579000918115, -95.44833056734004],
-      [38.49311003724227, -93.14325842416268],
-      [43.703884623484676, -90.94762787397352]
-    ]
-  },
-  {
-    "name": "SVR THUNDERSTORM WATCH #1",
-    "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Texarkana' and 'Denver' have issued a 'SVR THUNDERSTORM WATCH' at '6:10 PM EST'. Primary threats to expect include 'a few strong tornadoes, winds up to 90 MPH, and hail up to 5 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'SVR THUNDERSTORM WATCH' will expire at '2:15 AM EST' on the '29th'.",
-    "coordinates": [
-      [36.65702056379984, -99.39965527800624],
-      [35.164254163855325, -98.63539088611381],
-      [35.79740029934342, -95.17193876095044],
-      [37.25007069458963, -93.16828192051346],
-      [39.95402255354882, -92.46245137486562],
-      [40.44204965760227, -97.54349040081642]
-    ]
-  },
-  {
-    "name": "SVR THUNDERSTORM WATCH #2",
-    "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Minneapolis' and 'Indianapolis' have issued a 'SVR THUNDERSTORM WATCH' at '6:43 PM EST'. Primary threats to expect include 'a tornado or two, winds up to 85 MPH, and hail up to 4.25 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'SVR THUNDERSTORM WATCH' will expire at '1:00 AM EST' on the '29th'.",
-    "coordinates": [
-      [47.50820378290487, -90.43335405871417],
-      [46.25354952776681, -92.7644082680674],
-      [43.02053968012454, -92.49044931975173],
-      [43.55298572779904, -89.07317191181335],
-      [45.189484208595715, -86.17016831913432],
-      [47.368618611321686, -87.38135524853016]
-    ]
-  },
- {
-  "name": "SVR THUNDERSTORM WATCH #3",
-  "description": "The S.A.N.W.S office or offices in 'Lubbock' and/or 'Texarkana' have issued a 'Tornado Watch #4' at '7:04 PM EST'. Primary threats to expect include 'a few weak to strong tornadoes, winds up to 85MPH, and hail up to 3.75 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets'. This 'Tornado Watch' will expire at '10:45 PM EST' on the '28th'.",
-  "coordinates": [
-    [36.932844169792844, -99.8825346269376],
-    [35.5844478869444, -100.91588855479515],
-    [34.5461608488294, -100.78611852664562],
-    [33.60691207439517, -100.28145730606403],
-    [33.35887443042332, -98.82995550972453],
-    [35.624991035822774, -96.90743657417553],
-    [36.72702732185892, -97.76776379783371]
-  ]
-},
-
+  }]
+  
