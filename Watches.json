@@ -58,17 +58,17 @@
       [47.368618611321686, -87.38135524853016]
     ]
   },
-  {
-    "name": "SVR THUNDERSTORM WATCH #3",
-    "description": "The S.A.N.W.S office or offices in 'Lubbock' and/or 'Texarkana' have issued a 'SVR THUNDERSTORM WATCH' at '7:04 PM EST'. Primary threats to expect include 'a few weak to strong tornadoes, winds up to 85 MPH, and hail up to 3.75 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'SVR THUNDERSTORM WATCH' will expire at '10:45 PM EST' on the '28th'.",
-    "coordinates": [
-      [36.932844169792844, -99.8825346269376],
-      [35.5844478869444, -100.91588855479515],
-      [34.5461608488294, -100.78611852664562],
-      [33.60691207439517, -100.28145730606403],
-      [33.35887443042332, -98.82995550972453],
-      [35.624991035822774, -96.90743657417553],
-      [36.72702732185892, -97.76776379783371]
-    ]
-  }
-]
+ {
+  "name": "SVR THUNDERSTORM WATCH #3",
+  "description": "The S.A.N.W.S office or offices in 'Lubbock' and/or 'Texarkana' have issued a 'Tornado Watch #4' at '7:04 PM EST'. Primary threats to expect include 'a few weak to strong tornadoes, winds up to 85MPH, and hail up to 3.75 inches.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets'. This 'Tornado Watch' will expire at '10:45 PM EST' on the '28th'.",
+  "coordinates": [
+    [36.932844169792844, -99.8825346269376],
+    [35.5844478869444, -100.91588855479515],
+    [34.5461608488294, -100.78611852664562],
+    [33.60691207439517, -100.28145730606403],
+    [33.35887443042332, -98.82995550972453],
+    [35.624991035822774, -96.90743657417553],
+    [36.72702732185892, -97.76776379783371]
+  ]
+}
+
