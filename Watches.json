@@ -1,0 +1,37 @@
+[
+    {
+      "name": "PDS TORNADO WATCH #1",
+      "description": "The S.A.N.W.S office or offices in “Kansas City” and or “Minneapolis, and Denver” have issued a “PDS TORNADO WATCH” at “12:23 PM EST”. Primary threats to expect include “Large and strong tornadoes, winds up to 90MPH, and hail up to 4 inches plus.” Impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. This “PDS TORNADO WATCH” will expire at “9:45 PM EST” on the “28th”.",
+      "coordinates": [
+        [45.43878010970198, -95.39636560618858],
+        [41.24197852269181, -96.68833636391152],
+        [40.99551148136436, -93.69800029087203],
+        [41.85112758723584, -90.9806157863656],
+        [45.60160437199744, -90.93815665348268]
+      ]
+    },
+    {
+      "name": "PDS TORNADO WATCH #2",
+      "description": "The S.A.N.W.S office or offices in “Kansas City” and or “Minneapolis, and Denver” have issued a “PDS TORNADO WATCH” at “12:23 PM EST”. Primary threats to expect include “Large and strong tornadoes, winds up to 90MPH, and hail up to 4 inches plus.” Impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. This “PDS TORNADO WATCH” will expire at “9:45 PM EST” on the “28th”.",
+      "coordinates": [
+        [34.19567020658356, -100.6309701316107],
+        [31.438703295412733, -103.88819218277128],
+        [29.789888945969434, -102.74786118534449],
+        [30.724104088929305, -99.39358968759434],
+        [34.60449775852251, -96.85210730503142],
+        [36.17745807789931, -96.86423848585511]
+      ]
+    },
+    {
+      "name": "SVR THUNDERSTORM WATCH #1",
+      "description": "",
+      "coordinates": [
+        [36.65702056379984, -99.39965527800624],
+        [35.164254163855325, -98.63539088611381],
+        [35.79740029934342, -95.17193876095044],
+        [37.25007069458963, -93.16828192051346],
+        [39.95402255354882, -92.46245137486562],
+        [40.44204965760227, -97.54349040081642]
+      ]
+    }
+  ]
