@@ -99,4 +99,80 @@
             ]
         ]
     }
+    {
+        "name": "SVR THUNDERSTORM WATCH #6",
+        "description": "The S.A.N.W.S office or offices in “Indianapolis” and or “Bristol, Jackson, and Philadelphia” have issued a “SVR THUNDERSTORM WATCH #6” at “3:56 PM EST”. primary threats to expect include “a few tornadoes possible, winds up to 90MPH, and hail up to 3.5 inches.”. impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. this “SVR THUNDERSTORM WATCH” will expire at “2:25 AM EST” on the “30th”.",
+        "coordinates": [
+            [
+               38.93856550511397,-90.99921800205877
+            ],
+            [
+               36.55380090968757,-90.04454600022878
+            ],
+            [
+                36.294028570082396,-87.60672285269864
+            ],
+            [
+                37.73809851749695,-82.75664812911606
+            ],
+            [
+                38.75683628987447,-79.79886969487497
+            ],
+            [
+                42.683186186840516,-73.19288039649783
+            ],
+            [
+                45.01893977696543,-72.6047342525133
+            ],
+            [
+                44.922831280648694,-75.1192721144762
+            ],
+            [
+                43.62946908243157,-76.78142426051944
+            ],
+            [
+                43.43717733240798,-79.1693698409596
+            ],
+            [
+                42.858650361845584,-78.83827007278103
+            ],
+            [
+                41.71235767527952,-82.265698442278
+            ],
+            [
+                40.57662779728919,-88.92337819275359
+            ]
+        ]
+    },
+    {
+        "name": "SVR THUNDERSTORM WATCH #7",
+        "description": "The S.A.N.W.S office or offices in “Texarkana” and or “Lubbock” have issued a “SVR THUNDERSTORM WATCH #7” at “3:56 PM EST”. primary threats to expect include “a few tornadoes possible, winds up to 90MPH, and hail up to 4.5 inches.”. impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. this “SVR THUNDERSTORM WATCH” will expire at “12:25 AM EST” on the “30th”.",
+        "coordinates": [
+            [
+                30.459318147935463,-103.38621096408723
+            ],
+            [
+                30.07011583357277,-101.0760259374626
+            ],
+            [
+                30.867725984190077,-98.47572465168047
+            ],
+            [
+                33.48714171499147,-96.55236130393253
+            ],
+            [
+                35.12078206307076,-96.86396765636096
+            ],
+            [
+                36.30779054429527,-99.02372203008909
+            ],
+            [
+                35.52515579438188,-102.66629283951116
+            ],
+            [
+                33.11275609188474,-103.99867862230863
+            ]
+        ]
+    }
 ]
+
