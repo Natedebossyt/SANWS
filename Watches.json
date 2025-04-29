@@ -3,7 +3,7 @@
       "name": "PDS TORNADO WATCH #1",
       "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Minneapolis' and 'Denver' have issued a 'PDS TORNADO WATCH' at '12:23 PM EST'. Primary threats to expect include 'large and strong tornadoes, winds up to 90 MPH, and hail up to 4 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'PDS TORNADO WATCH' will expire at '9:45 PM EST' on the '28th'.",
       "coordinates": [
-        [45.43878010970198, -95.39636560618858],
+        [44.306598066464524,-94.94697333998468],
         [41.24197852269181, -96.68833636391152],
         [40.99551148136436, -93.69800029087203],
         [41.85112758723584, -90.9806157863656],
@@ -34,17 +34,5 @@
         [40.44204965760227, -97.54349040081642]
       ]
     },
-   {
-    "name": "SVR THUNDERSTORM WATCH #3",
-    "description": "Expired at 10:20 PM EST",
-    "coordinates": [
-      [36.932844169792844, -99.8825346269376],
-      [35.5844478869444, -100.91588855479515],
-      [34.5461608488294, -100.78611852664562],
-      [33.60691207439517, -100.28145730606403],
-      [33.35887443042332, -98.82995550972453],
-      [35.624991035822774, -96.90743657417553],
-      [36.72702732185892, -97.76776379783371]
-    ]
-  }]
+
   
