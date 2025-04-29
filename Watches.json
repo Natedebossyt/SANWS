@@ -1,27 +1,15 @@
-[
-    {
-      "name": "PDS TORNADO WATCH #1",
-      "description": "The S.A.N.W.S office or offices in 'Kansas City' and/or 'Minneapolis' and 'Denver' have issued a 'PDS TORNADO WATCH' at '12:23 PM EST'. Primary threats to expect include 'large and strong tornadoes, winds up to 90 MPH, and hail up to 4 inches plus.' Impact: expect damage to 'outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets.' This 'PDS TORNADO WATCH' will expire at '9:45 PM EST' on the '28th'.",
-      "coordinates": [
-        [44.72058473316319,-92.3944757230643],
-        [42.6265079264488,-95.07854538209398],
-        [40.99551148136436, -93.69800029087203],
-        [41.85112758723584, -90.9806157863656],
-        [45.60160437199744, -90.93815665348268]
-      ]
-    },
-    {
+{
       "name": "SVR THUNDERSTORM WATCH #4",
-      "description": "The S.A.N.W.S office or offices in “Lubbock” and or “Texarkana” have issued a “SVR THUNDERSTORM WATCH #4” at “11:08 PM EST”. primary threats to expect include “one or two tornadoes possible, winds up to 75MPH, and hail up to 3.25 inches.”. impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. this “SVR THUNDERSTORM WATCH” will expire at “4:25 AM EST” on the “29th”.",
+      "description": "The S.A.N.W.S office or offices in “Lubbock” and or “Texarkana” have issued a “SVR THUNDERSTORM WATCH #5” at “11:08 PM EST”. primary threats to expect include “one or two tornadoes possible, winds up to 80MPH, and hail up to 2.25 inches.”. impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. this “SVR THUNDERSTORM WATCH” will expire at “2:25 PM EST” on the “29th”.",
       "coordinates": [
-        [41.8484533,-90.9806323],
-        [43.16867583869118,-87.63870243042382],
-        [46.45218997998696,-84.47548053557742],
-        [46.657139632393104,-84.75863714248099],
-        [46.88532100311294,-84.87709207423137],
-        [47.838451897562464,-87.19158830392152],
-        [45.60160437199744, -90.93815665348268],
-        [45.6016035,-90.9365317]
+        [38.02214297775887,-97.31297844356267],
+        [36.54172876240793,-98.25374701297936],
+        [35.192241965831116,-99.98828906284139],
+        [34.129285318386366,-100.164683169607],
+        [33.723227993873174,-98.1949489773908],
+        [34.922007611702796,-92.88352642922571],
+        [36.98479847220162,-91.77616342564147],
+        [38.335092786380784,-94.60826880648963]
       ]
     }]
 
