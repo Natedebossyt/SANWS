@@ -1,10 +1,44 @@
 [
     {
-        "name": "",
-        "description": "",
+        "name": "PDS TORNADO #5",
+        "description": "The S.A.N.W.S office or offices in “Texarkana” and or “Kansas city, Lubbock, Hattiesburg, and Jackson ” have issued a “PDS TORNADO WATCH #5” at “1:48 PM EST”. primary threats to expect include “A couple dozen tornadoes of which some could be strong, gusty winds up to 80MPH, and hail up to 2 inches”. impact expect damage to “Vehicles, outdoor objects, homes, trees, and outdoor animals”. this “PDS TORNADO WATCH” will expire at “11:55 PM EST” on the “30th”.",
         "coordinates": [
+            [
+                35.986889058804614,
+                -95.81548970171097
+            ],
+            [
+                34.68634961880888,
+                -96.21162643621382
+            ],
+            [
+                32.824403071483786,
+                -99.03149450681974
+            ],
+            [
+                31.794131685656875,
+                -99.34423403405884
+            ],
+            [
+                32.07833295050251,
+                -93.54812812922736
+            ],
+            [
+                32.44031882018297,
+                -92.58906024569411
+            ],
+            [
+                34.39815334321039,
+                -92.14601258210537
+            ],
+            [
+                35.695870406501484,
+                -92.18771118573724
+            ],
+            [
+                36.41249746809579,
+                -94.30912764550918
             ]
         ]
     }
 ]
-
