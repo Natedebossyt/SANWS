@@ -173,6 +173,42 @@
                 33.11275609188474,-103.99867862230863
             ]
         ]
+    },
+        {
+        "name": "SVR THUNDERSTORM WATCH #8",
+        "description": "The S.A.N.W.S office or offices in “Jackson” and or “Bristol, and Indianapolis” have issued a “SVR THUNDERSTORM WATCH #8” at “8:55 PM EST”. primary threats to expect include “a tornado or two possible, winds up to 75MPH, and hail up to 1.75 inches.”. impact expect damage to “outdoor objects, trees, homes, businesses, cars, roofs, and outdoor pets”. this “SVR THUNDERSTORM WATCH” will expire at “11:25 AM EST” on the “30th”.",
+        "coordinates": [
+            [
+                39.27431727455885,-84.54535900000002
+            ],
+            [
+                37.662921376441375,-85.70415729092376
+            ],
+            [
+                36.60178927514447,-87.72422605839087
+            ],
+            [
+                35.787775397033954,-88.04657745745476
+            ],
+            [
+                35.36939080428469,-86.75717186119917
+            ],
+            [
+                35.25668548351846,-84.23040966846924
+            ],
+            [
+                35.64362888164397,-82.99957976293676
+            ],
+            [
+                36.780618566559966,-80.81967619530695
+            ],
+            [
+                38.15796820024378,-79.90767572313533
+            ],
+            [
+                39.521225307102355,-81.56113999382055
+            ]
+        ]
     }
 ]
 
