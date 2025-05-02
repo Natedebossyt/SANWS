@@ -4,28 +4,36 @@
         "description": "The S.A.N.W.S office or offices in Lubbock and/or Texarkana have issued a SVR THUNDERSTORM WATCH #11 at 10:04PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #11 will expire at 1:25PM EST on the 2nd.",
         "coordinates": [
             [
-                36.274110817886005,-98.40674317593978
+                36.274110817886005,
+                -98.40674317593978
             ],
             [
-                36.274110817886005,-98.40674317593978
+                36.274110817886005,
+                -98.40674317593978
             ],
             [
-                33.91166880374299,-100.43349183335694
+                33.91166880374299,
+                -100.43349183335694
             ],
             [
-                32.85979910823151,-99.89696647408412
+                32.85979910823151,
+                -99.89696647408412
             ],
             [
-                32.42357600716226,-97.41452983721959
+                32.42357600716226,
+                -97.41452983721959
             ],
             [
-                33.06341365134446,-95.35958894183398
+                33.06341365134446,
+                -95.35958894183398
             ],
             [
-                35.73030617691851,-94.90141283317386
+                35.73030617691851,
+                -94.90141283317386
             ],
             [
-                36.236446729359564,-96.86178499778794
+                36.236446729359564,
+                -96.86178499778794
             ]
         ]
     }
