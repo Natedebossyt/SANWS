@@ -1,47 +1,5 @@
 [
     {
-        "name": "SVR THUNDERSTORM WATCH #9",
-        "description": "The S.A.N.W.S office or offices in Indianapolis and/or Bristol and Jackson have issued a SVR THUNDERSTORM WATCH #9 at 4:04PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #9 will expire at 11:25PM EST on the 1st.",
-        "coordinates": [
-            [
-                41.75342550555766,
-                -83.27572251217276
-            ],
-            [
-                40.21540008809619,
-                -84.41562486446627
-            ],
-            [
-                38.0322210978123,
-                -86.56132340995997
-            ],
-            [
-                36.647549958779834,
-                -86.21264739631724
-            ],
-            [
-                37.09879535908311,
-                -83.06115265762341
-            ],
-            [
-                38.937605286331234,
-                -79.40005451437483
-            ],
-            [
-                41.99806894731721,
-                -78.09922477116929
-            ],
-            [
-                42.826577798443346,
-                -78.90509638000258
-            ],
-            [
-                41.962520976360246,
-                -81.26187681669789
-            ]
-        ]
-    },
-    {
         "name": "SVR THUNDERSTORM WATCH #10",
         "description": "The S.A.N.W.S office or offices in Lubbock and/or Texarkana have issued a SVR THUNDERSTORM WATCH #10 at 4:18PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #10 will expire at 11:25PM EST on the 1st.",
         "coordinates": [
@@ -68,6 +26,33 @@
             [
                 32.26453884384429,
                 -94.72217395756677
+            ]
+        ]
+    },
+    {
+        "name": "SVR THUNDERSTORM WATCH #11",
+        "description": "The S.A.N.W.S office or offices in Lubbock and/or Texarkana have issued a SVR THUNDERSTORM WATCH #10 at 4:18PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #10 will expire at 11:25PM EST on the 1st.",
+        "coordinates": [
+            [
+                36.7557992718125,-101.87615490292123
+            ],
+            [
+                34.93213707654564,-104.03491279467937
+            ],
+            [
+                33.33204396404068,-103.809868535693
+            ],
+            [
+                32.67542744782563,-100.25083525468636
+            ],
+            [
+                33.31942103346423,-96.51676755002362
+            ],
+            [
+                36.611253313437025,-97.17523038187262
+            ],
+            [
+                37.18489933355509,-99.53402761495195
             ]
         ]
     }
