@@ -1,58 +1,31 @@
 [
     {
-        "name": "SVR THUNDERSTORM WATCH #10",
-        "description": "The S.A.N.W.S office or offices in Lubbock and/or Texarkana have issued a SVR THUNDERSTORM WATCH #10 at 4:18PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #10 will expire at 11:25PM EST on the 1st.",
-        "coordinates": [
-            [
-                32.19725432595178,
-                -98.91304325261085
-            ],
-            [
-                31.50440347450375,
-                -101.00442483505063
-            ],
-            [
-                29.761662961891655,
-                -100.50184476485192
-            ],
-            [
-                29.522563575729674,
-                -97.17022526724435
-            ],
-            [
-                30.701451201236914,
-                -94.73838621789577
-            ],
-            [
-                32.26453884384429,
-                -94.72217395756677
-            ]
-        ]
-    },
-    {
         "name": "SVR THUNDERSTORM WATCH #11",
-        "description": "The S.A.N.W.S office or offices in Lubbock and/or Texarkana have issued a SVR THUNDERSTORM WATCH #11 at 10:04PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #11 will expire at 10:25AM EST on the 2nd.",
+        "description": "The S.A.N.W.S office or offices in Lubbock and/or Texarkana have issued a SVR THUNDERSTORM WATCH #11 at 10:04PM EST. Primary threats to expect include large hail and wind gusts up to 80MPH, and even a tornado or two. Impact: expect damage to vehicles, homes, powerlines, outdoor objects, and outdoor animals. This SVR THUNDERSTORM WATCH #11 will expire at 1:25PM EST on the 2nd.",
         "coordinates": [
             [
-                36.7557992718125,-101.87615490292123
+                36.274110817886005,-98.40674317593978
             ],
             [
-                34.93213707654564,-104.03491279467937
+                36.274110817886005,-98.40674317593978
             ],
             [
-                33.33204396404068,-103.809868535693
+                33.91166880374299,-100.43349183335694
             ],
             [
-                32.67542744782563,-100.25083525468636
+                32.85979910823151,-99.89696647408412
             ],
             [
-                33.31942103346423,-96.51676755002362
+                32.42357600716226,-97.41452983721959
             ],
             [
-                36.611253313437025,-97.17523038187262
+                33.06341365134446,-95.35958894183398
             ],
             [
-                37.18489933355509,-99.53402761495195
+                35.73030617691851,-94.90141283317386
+            ],
+            [
+                36.236446729359564,-96.86178499778794
             ]
         ]
     }
