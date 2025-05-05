@@ -16,5 +16,27 @@
                 34.00847180938003,-104.43294582669587
             ]
         ]
+    },
+    [
+    {
+        "name": "Tornado Warning #2",
+        "description": "The S.A.N.W.S office or offices in “Lubbock” and or “” have issued a “PDS tornado warning  ” at “3:44 CST”.  Doppler radar was tracking a “storm capable of tornados ” moving “NE” of “Roswell” at “50mph”. primary threats to expect include “tornado and possible Debry”.  impact expect damage to “homes, trees and power lines ”. this “ PDS tornado warning ” will expire at “5:00 CST” on the “5th”.",
+        "coordinates": [
+            [
+                33.97176463812139,-104.08164663555132
+            ],
+            [
+                34.09794654709737,-103.60019199551384
+            ],
+            [
+                34.426426663717024,-103.78296629481305
+            ],
+            [
+                34.19307617795248,-104.2363358502527
+            ]
+        ]
     }
 ]
+
+
+
