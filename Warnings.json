@@ -1,10 +1,20 @@
 [
     {
-        "name": "",
-        "description": "",
+        "name": "Tornado Warning #1",
+        "description": "The S.A.N.W.S office or offices in “Lubbock” and or “” have issued a “tornado warning  ” at “3:18”.  Doppler radar was tracking a “storm capable of tornados ” moving “NEst” of “Roswell” at “30mphr”. primary threats to expect include “tornado and possible Debry”.  impact expect damage to “homes, trees and power lines ”. this “tornado warning ” will expire at “4:10” on the “5th”.
+THIS IS NOT A DRILL!!!!!!",
         "coordinates": [
             [
-                
+                33.909677190164814,-104.37968282427342
+            ],
+            [
+                33.96648470207055,-104.06224774780144
+            ],
+            [
+                34.152039092515196,-104.1346771453061
+            ],
+            [
+                34.00847180938003,-104.43294582669587
             ]
         ]
     }
