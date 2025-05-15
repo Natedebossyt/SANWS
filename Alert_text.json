@@ -6,7 +6,7 @@
     },
     {
       "id": "Severe thunderstrom warning #3",
-      "message": "The S.A.N.W.S office or offices in “Monroe” and or “Lubbock” have issued a “Severe thunderstorm warning, number 3” at “1:30 PM EST”. doppler radar was tracking a “Strong thunderstorm” moving “North East” of, “Fort smith, Arkansas” at “65 MPH”. primary threats to expect include “penny sized hail, and 50 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Severe thunderstorm warning” will expire at “2:10 PM EST” on the “15th”."
+      "message": "Severe thunderstorm watch number 3 has expired and will be taken off shortly"
     },
     {
       "id": "Severe thunderstrom warning #4",
@@ -21,8 +21,8 @@
       "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Severe thunderstorm warning, number 6” at “2:11 PM EST”. doppler radar was tracking a “Strong line of thunderstorms” moving “north east” of, “White oak mountain,  Arkansas” at “75 MPH”. primary threats to expect include “quarter sized hail, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Severe thunderstorm warning” will expire at “3:45 PM EST” on the “15th”."
     },
     {
-      "id": "",
-      "message": ""
+      "id": "Tornado Warning #2",
+      "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Tornado warning, number 2” at “2:25 PM EST”. doppler radar was tracking a “Thunderstorm Capable of Producing a tornado” moving “north” of, “Benson, Minnesota” at “55 MPH”. primary threats to expect include “Tornado, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Tornado Warning” will expire at “3:45 PM EST” on the “15th”."
     }
   ]
 }
