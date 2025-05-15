@@ -23,6 +23,10 @@
     {
       "id": "Tornado Warning #2",
       "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Tornado warning, number 2” at “2:25 PM EST”. doppler radar was tracking a “Thunderstorm Capable of Producing a tornado” moving “north” of, “Benson, Minnesota” at “55 MPH”. primary threats to expect include “Tornado, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Tornado Warning” will expire at “3:45 PM EST” on the “15th”."
+    },
+    {
+      "id": "Tornado warning #3"
+      "message": "Tornado Warning issued May 15 at 1:48PM CDT until May 15 at 2:15PM CDT by NWS Twin Cities/Chanhassen MNTORMPX The National Weather Service in the Twin Cities has issued a * Tornado Warning for... Southeastern Scott County in east central Minnesota... * Until 215 PM CDT. * At 148 PM CDT, a severe thunderstorm capable of producing a tornado was located over Elko New Market, or 13 miles northwest of Northfield, moving north at 55 mph. HAZARD...Tornado and quarter size hail. SOURCE...Radar indicated rotation. IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows and vehicles will occur. Tree damage is likely. * Locations impacted include... Burnsville, Savage, Prior Lake, Elko New Market and Credit River."
     }
   ]
 }
