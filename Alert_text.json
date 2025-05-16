@@ -1,32 +1,32 @@
 {
   "alerts": [
     {
-      "id": "TORNADO WATCH #6",
-      "message": "The S.A.N.W.S office or offices in “Minneapolis” and or “Indianapolis, Monroe, And Charleston” have issued a, “PDS Tornado Watch, Number 6” at “12:55 PM EST”. primary threats to expect include “large hail, Large gusty winds, A few dozen Strong to Violent Tornadoes”. impact expect damage to “homes, businesses, trees, powerlines, outdoor animals, and outdoor objects.”. this, “TORNADO WATCH” will expire at, “1:45 AM EST”, on the “15th”."
+      "id": "PDS TORNADO WATCH #7",
+      "message": "The S.A.N.W.S office or offices in “Minneapolis” and or “Indianapolis, Monroe, And Charleston” have issued a, “PDS Tornado Watch, Number 7” at “11:50 AM EST”. primary threats to expect include “large hail, Large gusty winds, A few dozen Strong to Violent Tornadoes”. impact expect damage to “homes, businesses, trees, powerlines, outdoor animals, and outdoor objects.”. this, “TORNADO WATCH” will expire at, “4:45 AM EST”, on the “16th”."
     },
     {
-      "id": "Severe thunderstrom warning #7",
-      "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Severe thunderstorm warning, number 7” at “2:30 PM EST”. doppler radar was tracking a “Strong thunderstorm” moving “east” of, “plain view, Arkansas” at “75 MPH”. primary threats to expect include “quarter sized hail, and 70 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Severe thunderstorm warning” will expire at “3:25 PM EST” on the “15th”."
+      "id": "",
+      "message": ""
     },
     {
-      "id": "Severe thunderstrom warning #4",
-      "message": "The S.A.N.W.S office or offices in “Minneapolis” and or “none” have issued a “Severe thunderstorm warning, number 4” at “2:05 PM EST”. doppler radar was tracking a “Strong thunderstorm” moving “North” of, “Mankato, Minnesota” at “55 MPH”. primary threats to expect include “penny sized hail, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Severe thunderstorm warning” will expire at “3:10 PM EST” on the “15th”."
+      "id": "",
+      "message": ""
     },
     {
-      "id": "Severe thunderstrom warning #5",
-      "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Severe thunderstorm warning, number 5” at “2:07 PM EST”. doppler radar was tracking a “Strong thunderstorm” moving “east” of, “mount olive, Arkansas” at “75 MPH”. primary threats to expect include “penny sized hail, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Severe thunderstorm warning” will expire at “3:25 PM EST” on the “15th”."
+      "id": "",
+      "message": ""
     },
     {
-      "id": "Severe thunderstorm warning #6",
-      "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Severe thunderstorm warning, number 6” at “2:11 PM EST”. doppler radar was tracking a “Strong line of thunderstorms” moving “north east” of, “White oak mountain,  Arkansas” at “75 MPH”. primary threats to expect include “quarter sized hail, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Severe thunderstorm warning” will expire at “3:45 PM EST” on the “15th”."
+      "id": "",
+      "message": ""
     },
     {
-      "id": "Tornado Warning #2",
-      "message": "The S.A.N.W.S office or offices in “Monroe” and or “none” have issued a “Tornado warning, number 2” at “2:25 PM EST”. doppler radar was tracking a “Thunderstorm Capable of Producing a tornado” moving “north” of, “Benson, Minnesota” at “55 MPH”. primary threats to expect include “Tornado, and 65 MPH wind gusts”. impact expect damage to “roofs, and outdoor objects”. this “Tornado Warning” will expire at “3:45 PM EST” on the “15th”."
+      "id": "",
+      "message": ""
     },
     {
-      "id": "Tornado warning #3"
-      "message": "Tornado Warning issued May 15 at 1:48PM CDT until May 15 at 2:15PM CDT by NWS Twin Cities/Chanhassen MNTORMPX The National Weather Service in the Twin Cities has issued a * Tornado Warning for... Southeastern Scott County in east central Minnesota... * Until 215 PM CDT. * At 148 PM CDT, a severe thunderstorm capable of producing a tornado was located over Elko New Market, or 13 miles northwest of Northfield, moving north at 55 mph. HAZARD...Tornado and quarter size hail. SOURCE...Radar indicated rotation. IMPACT...Flying debris will be dangerous to those caught without shelter. Mobile homes will be damaged or destroyed. Damage to roofs, windows and vehicles will occur. Tree damage is likely. * Locations impacted include... Burnsville, Savage, Prior Lake, Elko New Market and Credit River."
+      "id": ""
+      "message": ""
     }
   ]
 }
