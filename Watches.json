@@ -3,89 +3,57 @@
         "name": "SVR THUNDERSTROM WATCH #20",
         "description": "",
         "coordinates": [
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ]
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
         ]
     },
     {
         "name": "SVR THUNDERSTROM WATCH #18",
         "description": "",
         "coordinates": [
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ],
-            [
-                
-            ]
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
         ]
     },
-        {
+    {
         "name": "PDS TORNADO WATCH #7",
         "description": "The S.A.N.W.S office or offices in “Minneapolis” and or “Indianapolis, Monroe, And Charleston” have issued a, “PDS Tornado Watch, Number 7” at “11:50 AM EST”. primary threats to expect include “large hail, Large gusty winds, A few dozen Strong to Violent Tornadoes”. impact expect damage to “homes, businesses, trees, powerlines, outdoor animals, and outdoor objects.”. this, “TORNADO WATCH” will expire at, “4:45 AM EST”, on the “16th”.",
         "coordinates": [
             [
-                35.7957923113095,-94.14894296902166
+                35.7957923113095 -94.14894296902166
             ],
             [
-                34.053486517324046,-91.88874354052257
+                34.053486517324046 -91.88874354052257
             ],
             [
-                34.49466530576994,-86.8365330532893
+                34.49466530576994 -86.8365330532893
             ],
             [
-                34.93267056019255,-83.66228238532366
+                34.93267056019255 -83.66228238532366
             ],
             [
-                36.5787719400849,-80.68746107869616
+                36.5787719400849 -80.68746107869616
             ],
             [
-                39.86948077628534,-81.18603448204153
+                39.86948077628534 -81.18603448204153
             ],
             [
-                40.403899411443085,-85.92248181382273
+                40.403899411443085 -85.92248181382273
             ],
             [
-                38.63650903256285,-92.13803024219524
+                38.63650903256285 -92.13803024219524
             ]
         ]
     }
