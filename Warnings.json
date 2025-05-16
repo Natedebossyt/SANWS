@@ -19,7 +19,7 @@
             []
         ]
     },
-        {
+    {
         "name": "Tornado Warning #1",
         "description": "",
         "coordinates": [
@@ -80,6 +80,3 @@
         ]
     }
 ]
-
-
-
