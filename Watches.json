@@ -60,38 +60,38 @@
         ]
     },
         {
-        "name": "TORNADO WATCH #6",
-        "description": "The S.A.N.W.S office or offices in “Minneapolis” and or “Indianapolis, Monroe, And Charleston” have issued a, “PDS Tornado Watch, Number 6” at “12:55 PM EST”. primary threats to expect include “large hail, Large gusty winds, A few dozen Strong to Violent Tornadoes”. impact expect damage to “homes, businesses, trees, powerlines, outdoor animals, and outdoor objects.”. this, “TORNADO WATCH” will expire at, “1:45 AM EST”, on the “15th”.",
+        "name": "PDS TORNADO WATCH #7",
+        "description": "The S.A.N.W.S office or offices in “Minneapolis” and or “Indianapolis, Monroe, And Charleston” have issued a, “PDS Tornado Watch, Number 7” at “11:50 AM EST”. primary threats to expect include “large hail, Large gusty winds, A few dozen Strong to Violent Tornadoes”. impact expect damage to “homes, businesses, trees, powerlines, outdoor animals, and outdoor objects.”. this, “TORNADO WATCH” will expire at, “4:45 AM EST”, on the “16th”.",
         "coordinates": [
             [
-                37.030728275697335,-92.05641503520192
+                35.7957923113095,-94.14894296902166
             ],
             [
-                35.00609373716199,-92.92029025953508
+                34.053486517324046,-91.88874354052257
             ],
             [
-                35.24235248114848,-90.80379595991884
+                34.49466530576994,-86.8365330532893
             ],
             [
-                39.007692234934176,-83.95038584687582
+                34.93267056019255,-83.66228238532366
             ],
             [
-                42.89935393037073,-84.33912969782574
+                36.5787719400849,-80.68746107869616
             ],
             [
-                46.16260871910409,-87.98180356043054
+                39.86948077628534,-81.18603448204153
             ],
             [
-                46.7977450879161,-93.17945282683499
+                40.403899411443085,-85.92248181382273
             ],
             [
-                44.2571639347012,-94.46086774292917
+                38.63650903256285,-92.13803024219524
             ],
             [
-                40.36491092280606,-92.41636304534072
+                
             ],
             [
-                36.45015548808477,-92.50455853257213
+                
             ]
         ]
     }
