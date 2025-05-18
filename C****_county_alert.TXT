@@ -1,1 +1,3 @@
-test alert
+event: TEST ALERT MESSAGE
+headline: CATAGORY SEVERE
+description: This messages is a test alert by the NWS!
