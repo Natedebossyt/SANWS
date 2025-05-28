@@ -5,7 +5,11 @@
       "type": "Feature",
       "properties": {
         "name": "SVR THUNDERSTROM WATCH #21",
-        "description": "Expired."
+        "description": "Expired.",
+        "fill": "#FFCC00",
+        "stroke": "#CC9900",
+        "stroke-width": 2,
+        "popupContent": "SVR THUNDERSTROM WATCH #21: Expired."
       },
       "geometry": {
         "type": "Polygon",
@@ -24,7 +28,11 @@
       "type": "Feature",
       "properties": {
         "name": "SVR THUNDERSTROM WATCH #18",
-        "description": ""
+        "description": "",
+        "fill": "#FF9900",
+        "stroke": "#996600",
+        "stroke-width": 2,
+        "popupContent": "SVR THUNDERSTROM WATCH #18"
       },
       "geometry": {
         "type": "Polygon",
@@ -43,7 +51,11 @@
       "type": "Feature",
       "properties": {
         "name": "PDS TORNADO WATCH #8",
-        "description": "Expired"
+        "description": "Expired",
+        "fill": "#FF3300",
+        "stroke": "#990000",
+        "stroke-width": 2,
+        "popupContent": "PDS TORNADO WATCH #8: Expired"
       },
       "geometry": {
         "type": "Polygon",
