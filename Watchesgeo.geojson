@@ -10,7 +10,7 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-          []  /* Empty polygon coordinates, should be replaced with actual coordinate pairs */
+          [] 
         ]
       }
     },
@@ -23,7 +23,7 @@
       "geometry": {
         "type": "Polygon",
         "coordinates": [
-          [] /* Empty polygon coordinates, replace with actual coordinate pairs */
+          [] 
         ]
       }
     },
