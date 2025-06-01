@@ -1,4 +1,19 @@
 The secondary National weather service in Bristol have issued a 
-Severe Thunderstrom Watch for counties in Tennessee. Cocke county.
-hazard. 60 MPH wind-gusts, and penny sized hail with most storms.
+Severe Thunderstrom Watch for counties in Tennessee. 
+
+Anderson.
+Blount.
+Loudon.
+Sevier.
+Jefferson.
+Union.
+Grainger.
+Roane.
+Monroe.
+Hamblen.
+Cocke.
+and
+Greene.
+
+hazard. 60 MPH wind-gusts, and penny sized hail with some storms.
 impact. expect damage to. roofs. trees. and outdoor objects.
